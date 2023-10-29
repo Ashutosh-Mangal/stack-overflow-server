@@ -1,2 +1,5 @@
 I am a new user.
+<<<<<<< HEAD
 Hello World.
+=======
+>>>>>>> 0ea4197aca23a86a9192f7fdd36a39774550c4a5
